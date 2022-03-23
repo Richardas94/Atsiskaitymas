@@ -1,0 +1,14 @@
+* 8e2d060 paskutinis commitas
+* bb2f364 Add my mark
+*   ef5ef9c Merge pull request #1 from Richardas94/PTRYTAS
+|\  
+| *   35eb1a0 Solved conflict
+| |\  
+| |/  
+|/|   
+* | 66e3e12 Update studentas.txt
+| * 619e60c Add group name
+|/  
+* 2ac9bd7 Add files to ignore
+* 068426b Add my surname
+* 8f214cb Add my name

@@ -1,0 +1,161 @@
+    1  git config --global --list
+    2  git config --global --list
+    3  git config --global --list user.name "Vardenis Pavardenis"
+    4  git config --global user.email "you@example.com"
+    5  git config --global user.name "My name"
+    6  git config --global--list
+    7  git config --global --list
+    8  mkdir pvz
+    9  cd pvz/
+   10  git init
+   11  git status
+   12  git config --globa user.email "rsmrrichard@gmail.com"
+   13  ssh-keygen -t ed25519 "rsmrrichard@gmail.com"
+   14  eal "$(ssh-agent -s)"
+   15  eval "$(ssh-agent -s)"
+   16  ssh-add -K ~/.ssh/id_ed25519
+   17  ssh-keygen -t rsa -b 4096 -C "rsmrrichard@gmail.com"
+   18  val "
+   19  ssh-keygen -t rsa -b 4096 -C "rsmrrichard@gmail.com"
+   20  eval "$(ssh-agent -s)"
+   21  ssh-add -K ~/.ssh/id_rsa -b 4096
+   22  ssh-add -K~/.ssh/id_rsa
+   23  ssh-keygen -t rsa-sk -C "rsmrrichard@gmail.com"
+   24  ssh-keygen -t ecdsa-sk -C "rsmrrichard@gmail.com"
+   25  git config --global user.email "rsmrrichard@gmail.com"
+   26  git config --global user.name "richardas"
+   27  git config --global --list
+   28  ssh-keygen -t rsa -b 4096 -C "rsmrrichard@gmail.com
+   29  git config --global --list
+   30  ssh-keygen -t rsa -b 4096 -C "rsmrrichard@gmail.com"
+   31  eval "$(ssh-agent -s)"
+   32   ssh-add ~/.ssh/id_rsa
+   33  clip < ~/.ssh/id_rsa.pub
+   34  cd Desktop
+   35  cd desktop
+   36  cd Desktop
+   37  git clone git@github.com:sutkyne/fantastic-funicular.git
+   38  git branch richardosaka
+   39  cd fantastic-funicular
+   40  git branch richardosaka
+   41  git status
+   42  git checkout richardosaka
+   43  git status
+   44  git status
+   45  git add .
+   46  git commit -m "pakeiciau kintamuosius vietomis"
+   47  git log
+   48  git push origin richardosaka
+   49  git switch main
+   50  git pull
+   51  git branch
+   52  git switch fantastic-funicular
+   53  git switch epic_features
+   54  git branch
+   55  git switch richardosaka
+   56  .git clone https://github.com/TomasCetkauskas/Vinted-Gyvunai.git
+   57  git clone https://github.com/TomasCetkauskas/Vinted-Gyvunai.git
+   58  .code
+   59  . code
+   60  git clone 
+   61  git clone git@github.com:TomasCetkauskas/Vinted-Gyvunai.git
+   62  cd Vinted-Gyvunai
+   63  git switch -c VG2
+   64  code .
+   65  git switch main
+   66  git pull
+   67  git clone git@github.com:TomasCetkauskas/Vinted-Gyvunai.git
+   68  cd Vinted-Gyvunai
+   69  code .
+   70  git clone git@github.com:TomasCetkauskas/Vinted-Gyvunai.git
+   71  cd Vinted-Gyvunai
+   72  code .
+   73  git git@github.com:TomasCetkauskas/Vinted-Gyvunai.git
+   74  git clone git@github.com:TomasCetkauskas/Vinted-Gyvunai.git
+   75  cd Desktop
+   76  mkdir Richard_PTRytas
+   77  cd Richard_PTRytas
+   78  git init
+   79  echo>>studentas.txt
+   80  git add studentas.txt
+   81  git commit -m "Add my name"
+   82  gid add studentas.txt
+   83  git add studentas.txt
+   84  git commit -m "Add my surname"
+   85  git log
+   86  echo>>logas.log
+   87  touch .gitignore
+   88  git add .gitignore
+   89  git status
+   90  git commit -m "Add files to ignore"
+   91  git remote add origin https://github.com/Richardas94/Atsiskaitymas.git
+   92  git push -u origin main
+   93  git push origin main
+   94  git push -u origin master
+   95  git push -u origin master
+   96  git push -u origin master
+   97  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+   98  git branch -M main
+   99  git push -u origin main
+  100  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  101  git branch -M main
+  102  git push -u origin main
+  103   Authentication failed for 'https://github.com/Richardas94/Atsiskaitymas.git/'
+  104  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  105  git branch -M main
+  106  git push -u origin main
+  107  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  108  git branch -M main
+  109  git push -u origin main
+  110  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  111  git branch -M main
+  112  git push -u origin main
+  113  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  114  git branch -M main
+  115  git push -u origin main
+  116  git remote -v
+  117  git remote set-url origin git@github.com:Richardas94/Atsiskaitymas.git
+  118  git remote -v
+  119  git remote add origin git@github.com:Richardas94/Atsiskaitymas.git
+  120  git branch -M main
+  121  git push -u origin main
+  122  git branch PTRYTAS
+  123  git switch PTRYTAS
+  124  git add .
+  125  git commit -m "Add group name"
+  126  git log
+  127  git switch main
+  128  git pull
+  129  git switch PTRYTAS
+  130  git merge main
+  131  git add .
+  132  git commit -m "Solved conflict"
+  133  git push
+  134  git push -u origin PTRYTAS
+  135  git switch main
+  136  git pull
+  137  git branch -vv
+  138  git push -d origin/PTRYTAS
+  139  git switch PTRYTAS
+  140  git push -d origin/PTRYTAS
+  141  git branch -d PTRYTAS
+  142  git switch main
+  143  git branch -d PTRYTAS
+  144  git push -d origin/PTRYTAS
+  145  git branch -r
+  146  git branch -vv
+  147  git push -d origin PTRYTAS
+  148  git branch -r
+  149  git add .
+  150  git commit -m "Add my mark"
+  151  git add .
+  152  git commit - m "paskutinis commitas"
+  153  git commit -m "paskutinis commitas"
+  154  echo>>history
+  155  git mv history history.txt
+  156  git add .
+  157  git mv history history.txt
+  158  git log --oneline --graph -all>gitlog.txt
+  159  git log --oneline--graph-all>gitlog.txt
+  160  git log --oneline --graph --all > gitlog.txt
+  161  history > history.txt
